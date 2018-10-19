@@ -3,3 +3,5 @@
 *  horse to zebra
 
 ![](https://github.com/citya1472581234/GAN/blob/master/CycleGAN/output.gif?raw=true)
+
+* cycle gan 架構
