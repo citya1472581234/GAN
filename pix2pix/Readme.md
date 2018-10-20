@@ -5,5 +5,6 @@
 ![](https://github.com/citya1472581234/GAN/blob/master/pix2pix/result/model.jpg?raw=true)
 
 * result 
+
 ![](https://github.com/citya1472581234/GAN/blob/master/pix2pix/result/cmp_b0252.jpg?raw=true)
-![](https://github.com/citya1472581234/GAN/blob/master/pix2pix/result/cmp_b0252(2).jpg?raw=true)
+![](https://github.com/citya1472581234/GAN/blob/master/pix2pix/result/cmp_b0252%20(2).jpg?raw=true)
